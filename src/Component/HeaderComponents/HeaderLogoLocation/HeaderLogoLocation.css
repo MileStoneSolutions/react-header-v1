@@ -1,0 +1,39 @@
+.top-header-logo{
+    height: 100%;
+    font-family: 'Pacifico', cursive;
+    /* color: white; */
+    /* background-color: blue; */
+}
+.top-header-logo p{
+    padding-left: 8%;
+    padding-top: 3%;
+    font-size: 2.2em;
+    margin-bottom: -10%;
+    
+}
+.top-header-logo span{
+    width: 100%;
+    margin-left: 13%;
+    font-size: 1.2em;
+}
+.top-header-logo a{
+    color: white;
+}
+.top-header-logo a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.top-header-location{
+    margin-top:7%;
+    padding-left: 15%;
+    font-family: 'Gugi', cursive;
+    color: #F3FFBD;
+}
+.top-header-location .btn{
+    color: #F3FFBD;
+}
+.top-header-location .btn:hover{
+    text-decoration: none;
+    color: #F3FFBD; 
+}
